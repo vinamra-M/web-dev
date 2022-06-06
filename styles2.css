@@ -1,0 +1,21 @@
+div{
+  height: 200px;
+  width: 200px;
+}
+body{
+  margin: 0;
+}
+h1{
+  margin-top: 0;
+}
+.middle{
+  background-color: red;
+  margin-top: 20px;
+}
+.bottom{
+  background-color: blue;
+}
+.top{
+  background-color: #BBF9F9;
+  width: 100%;
+}
